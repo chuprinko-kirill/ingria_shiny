@@ -1,2 +1,2 @@
 # Ingria shiny map demoversion
-This is tentative interactive map for ingrian dialectical data
+This is a tentative [interactive Shiny-based map](https://kichuprinko.shinyapps.io/project/) for ingrian dialectical data
